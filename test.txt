@@ -1,0 +1,36 @@
+1-0-The DT curW=The 1 prevW=BOS 1 prev2W=BOS 1 nextW=Arizona 1
+1-1-Arizona NNP curW=Arizona 1 prevW=The 1 prev2W=BOS 1 next2W=Commission 1
+1-2-Corporations NNP prevW=Arizona 1 prev2W=The 1 nextW=Commission 1 next2W=authorized 1 containUC 1 pref=C 1 pref=Co 1 pref=Cor 1 suf=s 1 suf=ns 1 suf=ons 1 suf=ions 1
+1-3-Commission NNP curW=Commission 1 prev2W=Arizona 1 nextW=authorized 1 next2W=an 1
+1-4-authorized VBD curW=authorized 1 prevW=Commission 1 nextW=an 1 next2W=11.5 1
+1-5-an DT curW=an 1 prevW=authorized 1 prev2W=Commission 1 nextW=11.5 1 next2W=% 1
+1-6-11.5 CD curW=11.5 1 prevW=an 1 prev2W=authorized 1 nextW=% 1 next2W=rate 1
+1-7-% NN curW=% 1 prevW=11.5 1 prev2W=an 1 nextW=rate 1 next2W=increase 1
+1-8-rate NN curW=rate 1 prevW=% 1 prev2W=11.5 1 nextW=increase 1 next2W=at 1
+1-9-increase NN curW=increase 1 prevW=rate 1 prev2W=% 1 nextW=at 1
+1-10-at IN curW=at 1 prevW=increase 1 prev2W=rate 1 next2W=Electric 1
+1-11-Tucson NNP curW=Tucson 1 prevW=at 1 prev2W=increase 1 nextW=Electric 1 next2W=Power 1
+1-12-Electric NNP curW=Electric 1 prev2W=at 1 nextW=Power 1 next2W=Co. 1
+1-13-Power NNP curW=Power 1 prevW=Electric 1 nextW=Co. 1 next2W=comma 1
+1-14-Co. NNP curW=Co. 1 prevW=Power 1 prev2W=Electric 1 nextW=comma 1 next2W=substantially 1
+1-15-comma comma curW=comma 1 prevW=Co. 1 prev2W=Power 1 nextW=substantially 1 next2W=lower 1
+1-16-substantially RB curW=substantially 1 prevW=comma 1 prev2W=Co. 1 nextW=lower 1 next2W=than 1
+1-17-lower JJR curW=lower 1 prevW=substantially 1 prev2W=comma 1 nextW=than 1 next2W=recommended 1
+1-18-than IN curW=than 1 prevW=lower 1 prev2W=substantially 1 nextW=recommended 1 next2W=last 1
+1-19-recommended VBN curW=recommended 1 prevW=than 1 prev2W=lower 1 nextW=last 1 next2W=month 1
+1-20-last JJ curW=last 1 prevW=recommended 1 prev2W=than 1 nextW=month 1 next2W=by 1
+1-21-month NN curW=month 1 prevW=last 1 prev2W=recommended 1 nextW=by 1 next2W=a 1
+1-22-by IN curW=by 1 prevW=month 1 prev2W=last 1 nextW=a 1 next2W=commission 1
+1-23-a DT curW=a 1 prevW=by 1 prev2W=month 1 nextW=commission 1 next2W=hearing 1
+1-24-commission NN curW=commission 1 prevW=a 1 prev2W=by 1 nextW=hearing 1 next2W=officer 1
+1-25-hearing NN curW=hearing 1 prevW=commission 1 prev2W=a 1 nextW=officer 1 next2W=and 1
+1-26-officer NN curW=officer 1 prevW=hearing 1 prev2W=commission 1 nextW=and 1 next2W=barely 1
+1-27-and CC curW=and 1 prevW=officer 1 prev2W=hearing 1 nextW=barely 1 next2W=half 1
+1-28-barely RB curW=barely 1 prevW=and 1 prev2W=officer 1 nextW=half 1 next2W=the 1
+1-29-half PDT curW=half 1 prevW=barely 1 prev2W=and 1 nextW=the 1 next2W=rise 1
+1-30-the DT curW=the 1 prevW=half 1 prev2W=barely 1 nextW=rise 1 next2W=sought 1
+1-31-rise NN curW=rise 1 prevW=the 1 prev2W=half 1 nextW=sought 1 next2W=by 1
+1-32-sought VBN curW=sought 1 prevW=rise 1 prev2W=the 1 nextW=by 1 next2W=the 1
+1-33-by IN curW=by 1 prevW=sought 1 prev2W=rise 1 nextW=the 1 next2W=utility 1
+1-34-the DT curW=the 1 prevW=by 1 prev2W=sought 1 nextW=utility 1 next2W=. 1
+1-35-utility NN curW=utility 1 prevW=the 1 prev2W=by 1 nextW=. 1 next2W=EOS 1
